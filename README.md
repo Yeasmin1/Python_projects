@@ -2,8 +2,7 @@
 
 This repo contains a list of Python projects developed my me.
 
-## Privacy_aware_notification
+## Privacy_notification
 
-This is an Amazon Alexa application that is aware of private data and it 
-notifies users when it collects or processes private data through the
+This is a pizza shop skill/application for Amazon Alexa. The application is aware of private data and it notifies the users when it collects or processes private data through the
 voice user interface.
