@@ -32,4 +32,4 @@ Content of the line:
       routers separated by semicolons or nothing if there are no neighbouring
       routers
     - On the right side of the later exclamation mark there is the content of
-      the routing table
+      the routing table.
